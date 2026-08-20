@@ -1,13 +1,19 @@
 # 📊 Excel Bootcamp — 30 Jours
 
+![Statut](https://img.shields.io/badge/statut-en%20cours-yellow)
+![Jour](https://img.shields.io/badge/jour-01%20%2F%2030-blue)
+![Environnement](https://img.shields.io/badge/environnement-Windows%20%2B%20Excel-0A66C2)
+
 Challenge personnel de maîtrise Excel avancé, sur 30 jours consécutifs.
 Objectif : passer d'un usage basique à un usage **professionnel niveau entreprise**
 (RH, finance, reporting) — formules avancées, TCD, Power Query, dashboards, VBA.
 
-- 🎯 **Format** : 1 dossier par jour, théorie (recherche) + pratique (fichier Excel)
-- 🧭 **Programme source** : bootcamp ami (template Notion) — contenu recopié jour par jour dans ce repo
-- 🧑‍🏫 **Coaching complémentaire** : sessions avec Claude pour approfondir chaque notion avec des cas métier réalistes (jeux de données volumineux, pas d'exemples jouets) et faire le lien avec Pandas/SQL
-- 💻 **Environnement** : Windows + Excel (basculé depuis Linux pour ce projet) + Git Bash + VS Code
+| | |
+|---|---|
+| 🎯 **Format** | 1 dossier par jour : théorie (recherche) + pratique (fichier Excel) |
+| 🧭 **Programme source** | Bootcamp d'un ami (template Notion) — contenu recopié jour par jour ici |
+| 🧑‍🏫 **Coaching** | Sessions avec Claude, cas métier réalistes (RH/finance/reporting), lien systématique avec Pandas/SQL |
+| 💻 **Environnement** | Windows + Excel · Git Bash · VS Code |
 
 ---
 
@@ -36,17 +42,22 @@ Chaque dossier `jour-XX-.../README.md` suit toujours le même plan :
 
 ## 📈 Suivi de progression
 
+`Semaine 1` ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ `1 / 30 jours`
+
 | Jour | Thème | Statut |
 |:----:|-------|:------:|
-| 01 | Environnement & références (relative / absolue / mixte) | 🔄 En cours |
+| [01](jour-01-references-cellules/) | Environnement & références (relative / absolue / mixte) | 🔄 En cours |
 | 02 | *(à venir)* | ⬜ |
 | 03 | *(à venir)* | ⬜ |
 | 04 | *(à venir)* | ⬜ |
 | 05 | *(à venir)* | ⬜ |
-| ... | ... | ⬜ |
-| 30 | *(à venir)* | ⬜ |
+| 06 | *(à venir)* | ⬜ |
+| 07 | *(à venir)* | ⬜ |
+| 08–30 | *(à venir)* | ⬜ |
 
 Légende : ⬜ à faire · 🔄 en cours · ✅ terminé · ⏭️ sauté (à rattraper)
+
+> Ajoute une ligne au tableau à chaque nouveau jour, avec un lien vers son dossier — pas besoin de préremplir les 30 lignes à l'avance.
 
 > Je mets à jour ce tableau à chaque fin de journée, avant le commit.
 
