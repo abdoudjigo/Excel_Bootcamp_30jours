@@ -1,0 +1,18 @@
+# Fichiers temporaires Excel (créés à l'ouverture d'un classeur)
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# Fichiers de sauvegarde Excel
+*.xlk
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# macOS (au cas où)
+.DS_Store
