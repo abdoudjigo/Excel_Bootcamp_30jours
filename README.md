@@ -4,8 +4,6 @@
 ![Jour](https://img.shields.io/badge/Jour-02%20sur%2030-blue)
 ![Excel](https://img.shields.io/badge/Excel-Microsoft%20365-217346?logo=microsoft-excel&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white)
-![Coaching](https://img.shields.io/badge/Coaching-Claude%20AI-6B21A8?logo=anthropic&logoColor=white)
-
 ---
 
 ## 📖 Présentation
