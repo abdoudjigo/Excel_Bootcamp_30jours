@@ -49,33 +49,35 @@ Fichier de travail : `exercices/jour01_references.xlsx`
 
 - [ ] **1. Référence relative** — série A1:A5 / B1:B5, `=A1+B1` étiré sur C1:C5.
       Qu'observe-t-on dans C2 à C5 ?
-      > _réponse_
+      > _réponse_ : Dans C2 on voit =A2+B2, dans C3 =A3+B3, etc. Les références de lignes s'ajustent automatiquement car elles sont relatives.
 
 - [ ] **2. Référence absolue** — coefficient en D1, `=A1*$D$1` étiré horizontalement et verticalement.
       Que devient `$D$1` partout où on le recopie ?
-      > _réponse_
+      > _réponse_ :  $D$1 reste toujours $D$1 dans toutes les cellules recopiées, que ce soit vers le bas ou vers la droite. Elle est complètement figée.
 
 - [ ] **3. Références mixtes** — table de multiplication avec `=$A2*B$1` étirée sur B2:E5.
       Rôle du `$` devant la colonne vs devant la ligne ?
-      > _réponse_
+      > _réponse_ :  Le $ devant la colonne ($A) bloque la colonne A, donc elle ne change pas quand on étire vers la droite. Le $ devant la ligne ($1) bloque la ligne 1, donc elle ne change pas quand on étire vers le bas.
+
 
 - [ ] **4. Sous-total (5 produits, Prix HT × Quantité)** — quel type de référence as-tu utilisé et pourquoi c'est le seul adapté ?
-      > _réponse_
+      > _réponse_ : J'ai utilisé des références relatives (=B2*C2). C'est le seul choix adapté parce qu'en étirant vers le bas, chaque ligne prend ses propres valeurs (Prix HT et Quantité de la même ligne).
 
 - [ ] **5. Taux de TVA fixe** — `=D2*(1+H1)` vs `=D2*(1+$H$1)` étirés. Pourquoi `$H$1` est obligatoire ici ?
-      > _réponse_
+      > _réponse_ : $H$1 est obligatoire car le taux de TVA est unique et doit rester le même pour toutes les lignes. Avec H1 (relative), en étirant vers le bas la formule deviendrait =D3*(1+H2) puis =D4*(1+H3)... donc elle irait chercher des cellules vides.
 
 - [ ] **6. Matrice de sensibilité TVA (J1:L1 = 10%/20%/30%)** — une seule formule mixte en J2 étirée sur J2:L6.
       Formule exacte utilisée (avec les `$`) :
-      > `=...`
+      > `==$D2*(1+J$1)`
+
 
 - [ ] **7. Raccourci F4** — bascule entre les 4 modes de référence.
       Ordre exact des bascules :
-      > _réponse_
+      > _réponse_ : A1 → $A$1 → A$1 → $A1 → puis retour à A1
 
 - [ ] **8. Figer des valeurs aléatoires** — `=ENT(ALEA()*10)+1`, puis Collage spécial → Valeurs.
       Pourquoi ça change à chaque F9, et quelle opération fige les valeurs ?
-      > _réponse_
+      > _réponse_ :  Les valeurs changent à chaque F9 parce que ALEA() est une fonction volatile qui donne un nouveau nombre aléatoire à chaque recalcul.L'opération qui fige les valeurs est le Collage spécial → Valeurs. Elle remplace les formules par leurs résultats fixes, utiles pour des rapports ou tirages au sort.
 
 ---
 
