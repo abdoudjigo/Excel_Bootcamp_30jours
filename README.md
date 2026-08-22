@@ -46,7 +46,7 @@ Chaque dossier `jour-XX-.../README.md` suit toujours le même plan :
 
 | Jour | Thème | Statut |
 |:----:|-------|:------:|
-| [01](jour-01-references-cellules/) | Environnement & références (relative / absolue / mixte) | 🔄 En cours |
+| [01](jour-01-references-cellules/) | Environnement & références (relative / absolue / mixte) | ✅ Terminé |
 | 02 | *(à venir)* | ⬜ |
 | 03 | *(à venir)* | ⬜ |
 | 04 | *(à venir)* | ⬜ |

@@ -13,31 +13,32 @@ Réponds ici en 1-3 phrases par question (pas besoin d'être exhaustif, l'import
 c'est que tu puisses réexpliquer avec tes mots) :
 
 1. Qu'est-ce qu'une cellule dans un tableur Excel ?
-   > _réponse_
+   l'intersection d'une ligne et d'une colonne (ex: B4), unité de base qui contient une valeur, une formule ou du texte.
 
 2. Qu'est-ce qu'une plage de cellules ?
-   > _réponse_
+   un ensemble contigu de cellules, notée début:fin (ex: A1:C5). Sert à appliquer une formule ou une mise en forme à plusieurs cellules d'un coup.
 
 3. Quelle est la différence entre un classeur et une feuille de calcul ?
-   > _réponse_
+   le classeur (.xlsx) est le fichier entier, il peut contenir plusieurs feuilles (onglets en bas). Une feuille = un seul tableau/espace de travail à l'intérieur du classeur. Équivalent Pandas : un classeur ≈ un fichier Excel avec plusieurs sheet_name, une feuille ≈ un seul DataFrame.
 
 4. Qu'est-ce qu'une référence relative et comment se comporte-t-elle lors de la recopie d'une formule ?
-   > _réponse_
+   change automatiquement quand tu recopies la formule, en fonction du décalage. Si =A1+B1 en C1 devient =A2+B2 en C2 — c'est le comportement par défaut.
 
 5. Qu'est-ce qu'une référence absolue, quel symbole l'identifie, et quel est son comportement lors de la recopie ?
-   > _réponse_
+   le $ fige la colonne ET la ligne. Peu importe où tu recopies la formule, elle continue de pointer vers exactement la même cellule.
+   
 
 6. Qu'est-ce qu'une référence mixte ? Quelle est la différence de comportement entre `$A1` et `A$1` ?
-   > _réponse_
+   Un seul des deux éléments est figé. $A1 fige la colonne A (mais la ligne bouge), A$1 fige la ligne 1 (mais la colonne bouge). Le $ juste avant la lettre bloque la colonne, juste avant le chiffre bloque la ligne.
 
 7. À quoi sert la poignée de recopie (recopie incrémentée) ?
-   > _réponse_
+   le petit carré en bas à droite de la cellule sélectionnée. Tu cliques-glisses dessus pour dupliquer une formule (ou continuer une série comme 1,2,3...) sur plusieurs cellules sans retaper.
 
 8. Dans quel cas pratique est-il indispensable d'utiliser une référence absolue ?
-   > _réponse_
+   quand une formule doit toujours pointer vers une seule valeur fixe partagée par toutes les lignes — typiquement un taux de TVA, un taux de change, ou un coefficient unique en haut du tableau. Si tu laisses en relatif, la référence "glisse" et va chercher une cellule vide ou fausse dès la 2e ligne → #VALEUR! ou résultat à 0.
 
 9. Dans quel cas pratique est-il utile d'utiliser une référence mixte ?
-   > _réponse_
+   les tableaux à double entrée (matrices), genre une table de multiplication ou un tableau de sensibilité (ex: prix selon plusieurs taux de TVA en colonnes ET plusieurs produits en lignes). Tu veux que la ligne reste fixe quand tu étires horizontalement, et que la colonne reste fixe quand tu étires verticalement — une seule formule mixte couvre toute la matrice.
 
 ---
 
