@@ -93,8 +93,8 @@ Fichier de travail : `exercices/jour01_references.xlsx`
 
 ## ✅ Checklist fin de journée
 
-- [ ] Les 9 questions théoriques ont une réponse dans mes propres mots
-- [ ] Les 8 exercices pratiques sont faits dans `exercices/jour01_references.xlsx`
-- [ ] La section "points de friction" est remplie
-- [ ] Le tableau de progression du README principal est mis à jour (🔄 → ✅)
-- [ ] `git add . && git commit -m "Jour 01 : références relatives, absolues et mixtes" && git push`
+- [✅] Les 9 questions théoriques ont une réponse dans mes propres mots
+- [✅] Les 8 exercices pratiques sont faits dans `exercices/jour01_references.xlsx`
+- [✅] La section "points de friction" est remplie
+- [✅] Le tableau de progression du README principal est mis à jour (🔄 → ✅)
+- [✅] `git add . && git commit -m "Jour 01 : références relatives, absolues et mixtes" && git push`
