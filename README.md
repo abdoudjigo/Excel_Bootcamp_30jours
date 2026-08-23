@@ -1,7 +1,7 @@
 # 🚀 Excel Bootcamp — 30 Jours
 
 ![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow)
-![Jour](https://img.shields.io/badge/Jour-03%20sur%2030-blue)
+![Jour](https://img.shields.io/badge/Jour-04%20sur%2030-blue)
 ![Excel](https://img.shields.io/badge/Excel-Microsoft%20365-217346?logo=microsoft-excel&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -39,6 +39,9 @@ excel-bootcamp-30-jours/
 │   ├── 📄 README.md
 │   ├── 📁 data/                          # Dataset original (1000 étudiants)
 │   └── 📁 exercices/                     # Copie de travail
+├── 📁 jour-04-validation-donnees/
+│   ├── 📄 README.md
+│   └── 📁 exercices/                     # Fichiers .xlsx du jour
 └── 📁 jour-XX-.../
     ├── 📄 README.md
     └── 📁 exercices/
@@ -58,7 +61,7 @@ excel-bootcamp-30-jours/
 ### 🗓️ Semaine 1 — Fondations
 
 ```
-[███████████░░░░░░░░░░░░░░░░░░░] 10 % — Jour 3 / 30
+[█████████████░░░░░░░░░░░░░░░] 13 % — Jour 4 / 30
 ```
 
 ### Tableau de bord
@@ -68,7 +71,7 @@ excel-bootcamp-30-jours/
 | [01](jour-01-references-cellules/) | Environnement & références | Relative / Absolue / Mixte | ✅ Terminé |
 | [02](jour-02-mise-en-forme/) | Mise en forme essentielle | Nombres, %, €, Dates, Fusion | ✅ Terminé |
 | [03](jour-03-tri-filtres/) | Tri et filtres | Tris simples/personnalisés, filtres multiples | ✅ Terminé |
-| 04 | *(à définir)* | — | ⬜ À faire |
+| [04](jour-04-validation-donnees/) | Validation des données | Listes déroulantes, restrictions numériques/date | ✅ Terminé |
 | 05 | *(à définir)* | — | ⬜ À faire |
 | 06 | *(à définir)* | — | ⬜ À faire |
 | 07 | *(à définir)* | — | ⬜ À faire |
@@ -106,6 +109,7 @@ git push
 Jour 01 : références relatives, absolues et mixtes
 Jour 02 : mise en forme (nombres, %, devise, dates, fusion)
 Jour 03 : tri et filtres
+Jour 04 : validation des données
 ```
 
 > Numéro sur 2 chiffres · thème court en français · pas de majuscule après les deux‑points
@@ -131,6 +135,7 @@ Jour 03 : tri et filtres
 - Références (relative/absolue/mixte) ✅
 - Mise en forme (nombres, %, dates, devise) ✅
 - Tri et filtres (simples, multiples, personnalisés) ✅
+- Validation des données (listes, nombres, dates) ✅
 - Formules essentielles (SI, RECHERCHE, SOMME.SI)
 - Mise en forme conditionnelle
 - Graphiques de base
@@ -138,7 +143,6 @@ Jour 03 : tri et filtres
 **Niveau 2 — Intermédiaire (Jours 11-20)**
 - Tableaux croisés dynamiques
 - Fonctions avancées (INDEX/EQUIV, SOUS.TOTAL)
-- Validation des données
 - Scénarios et simulations
 
 **Niveau 3 — Avancé (Jours 21-30)**
@@ -159,8 +163,8 @@ Jour 03 : tri et filtres
 
 ## 🏁 Dernière mise à jour
 
-> **23 août 2026** — Jour 03 terminé ✅
+> **23 août 2026** — Jour 04 terminé ✅
 
 ---
 
-**30 jours pour devenir un pro Excel — un jour à la fois.**
+🔥 **30 jours pour devenir un pro Excel — un jour à la fois.**
