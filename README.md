@@ -17,7 +17,7 @@ Objectif : passer d'un usage basique à un niveau **entreprise** — formules av
 |---|---|
 | 🎯 **Format** | 1 dossier par jour : théorie + pratique (fichier Excel) |
 | 🧭 **Programme** | Bootcamp d'un ami (template Notion) — contenu recopié jour par jour |
-| 🧑‍🏫 **Coaching** | Sessions avec Claude, cas métier réalistes (RH/finance/reporting) |
+| 🧑‍🏫 **Coaching** | Sessions avec notre coach Dev DATA, cas métier réalistes (RH/finance/reporting) |
 | 💻 **Environnement** | Windows + Excel · Git Bash · VS Code · GitHub |
 
 ---
@@ -125,8 +125,6 @@ Jour 04 : validation des données
 | 🐚 **Git Bash** | Commandes Git |
 | 📝 **VS Code** | Édition des README et notes |
 | 🐙 **GitHub** | Hébergement du dépôt |
-| 🤖 **Claude AI** | Coaching et correction |
-
 ---
 
 ## 🧠 Compétences visées
@@ -157,7 +155,7 @@ Jour 04 : validation des données
 
 - 📁 [Dépôt GitHub](https://github.com/abdoudjigo/Excel_Bootcamp_30jours)
 - 🧑‍🏫 Programme source : template Notion (privé, contenu recopié au fil des jours)
-- 🤖 Historique des sessions de coaching avec Claude
+- 🤖 Assistance et correction : Claude AI
 
 ---
 
@@ -167,4 +165,4 @@ Jour 04 : validation des données
 
 ---
 
-🔥 **30 jours pour devenir un pro Excel — un jour à la fois.**
+**30 jours pour devenir un pro Excel — un jour à la fois.**
