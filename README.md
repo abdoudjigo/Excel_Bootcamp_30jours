@@ -1,7 +1,7 @@
 # 🚀 Excel Bootcamp — 30 Jours
 
 ![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow)
-![Jour](https://img.shields.io/badge/Jour-04%20sur%2030-blue)
+![Jour](https://img.shields.io/badge/Jour-05%20sur%2030-blue)
 ![Excel](https://img.shields.io/badge/Excel-Microsoft%20365-217346?logo=microsoft-excel&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -42,6 +42,9 @@ excel-bootcamp-30-jours/
 ├── 📁 jour-04-validation-donnees/
 │   ├── 📄 README.md
 │   └── 📁 exercices/                     # Fichiers .xlsx du jour
+├── 📁 jour-05-mise-en-forme-conditionnelle/
+│   ├── 📄 README.md
+│   └── 📁 exercices/                     # Fichiers .xlsx du jour
 └── 📁 jour-XX-.../
     ├── 📄 README.md
     └── 📁 exercices/
@@ -61,7 +64,7 @@ excel-bootcamp-30-jours/
 ### 🗓️ Semaine 1 — Fondations
 
 ```
-[█████████████░░░░░░░░░░░░░░░] 13 % — Jour 4 / 30
+[█████████████████░░░░░░░░░░░] 17 % — Jour 5 / 30
 ```
 
 ### Tableau de bord
@@ -72,7 +75,7 @@ excel-bootcamp-30-jours/
 | [02](jour-02-mise-en-forme/) | Mise en forme essentielle | Nombres, %, €, Dates, Fusion | ✅ Terminé |
 | [03](jour-03-tri-filtres/) | Tri et filtres | Tris simples/personnalisés, filtres multiples | ✅ Terminé |
 | [04](jour-04-validation-donnees/) | Validation des données | Listes déroulantes, restrictions numériques/date | ✅ Terminé |
-| 05 | *(à définir)* | — | ⬜ À faire |
+| [05](jour-05-mise-en-forme-conditionnelle/) | Mise en forme conditionnelle | Règles, échelles, barres, icônes | ✅ Terminé |
 | 06 | *(à définir)* | — | ⬜ À faire |
 | 07 | *(à définir)* | — | ⬜ À faire |
 | 08 | *(à définir)* | — | ⬜ À faire |
@@ -110,6 +113,7 @@ Jour 01 : références relatives, absolues et mixtes
 Jour 02 : mise en forme (nombres, %, devise, dates, fusion)
 Jour 03 : tri et filtres
 Jour 04 : validation des données
+Jour 05 : mise en forme conditionnelle
 ```
 
 > Numéro sur 2 chiffres · thème court en français · pas de majuscule après les deux‑points
@@ -125,6 +129,7 @@ Jour 04 : validation des données
 | 🐚 **Git Bash** | Commandes Git |
 | 📝 **VS Code** | Édition des README et notes |
 | 🐙 **GitHub** | Hébergement du dépôt |
+
 ---
 
 ## 🧠 Compétences visées
@@ -134,8 +139,8 @@ Jour 04 : validation des données
 - Mise en forme (nombres, %, dates, devise) ✅
 - Tri et filtres (simples, multiples, personnalisés) ✅
 - Validation des données (listes, nombres, dates) ✅
+- Mise en forme conditionnelle (règles, échelles, barres, icônes) ✅
 - Formules essentielles (SI, RECHERCHE, SOMME.SI)
-- Mise en forme conditionnelle
 - Graphiques de base
 
 **Niveau 2 — Intermédiaire (Jours 11-20)**
@@ -155,14 +160,12 @@ Jour 04 : validation des données
 
 - 📁 [Dépôt GitHub](https://github.com/abdoudjigo/Excel_Bootcamp_30jours)
 - 🧑‍🏫 Programme source : template Notion (privé, contenu recopié au fil des jours)
-- 🤖 Assistance et correction : Claude AI
-
 ---
 
 ## 🏁 Dernière mise à jour
 
-> **23 août 2026** — Jour 04 terminé ✅
+> **23 août 2026** — Jour 05 terminé ✅
 
 ---
 
-**30 jours pour devenir un pro Excel — un jour à la fois.**
+🔥 **30 jours pour devenir un pro Excel — un jour à la fois.**
