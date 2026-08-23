@@ -81,13 +81,13 @@
 ---
 
 ### Exercice 6 : Fusion pour le titre "Bulletin Scolaire 2025"
-**Instruction :** En ligne 1, fusionner les cellules A1 à H1 et écrire "📊 Bulletin Scolaire 2025".
+**Instruction :** En ligne 1, fusionner les cellules A1 à H1 et écrire " Bulletin Scolaire 2025".
 
 **Réalisation :** 
 - Sélection A1:H1 → Fusionner et centrer
 - Titre : gras, taille 14, bleu
 
-**⚠️ Attention :** Fusion uniquement pour les titres, pas sur les données.
+** Attention :** Fusion uniquement pour les titres, pas sur les données.
 
 ---
 

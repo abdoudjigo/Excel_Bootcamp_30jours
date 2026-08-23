@@ -1,9 +1,11 @@
 # 🚀 Excel Bootcamp — 30 Jours
 
 ![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow)
-![Jour](https://img.shields.io/badge/Jour-02%20sur%2030-blue)
+![Jour](https://img.shields.io/badge/Jour-03%20sur%2030-blue)
 ![Excel](https://img.shields.io/badge/Excel-Microsoft%20365-217346?logo=microsoft-excel&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
 ---
 
 ## 📖 Présentation
@@ -33,6 +35,10 @@ excel-bootcamp-30-jours/
 │   ├── 📄 README.md
 │   ├── 📁 data/                          # Dataset original
 │   └── 📁 exercices/                     # Copie de travail
+├── 📁 jour-03-tri-filtres/
+│   ├── 📄 README.md
+│   ├── 📁 data/                          # Dataset original (1000 étudiants)
+│   └── 📁 exercices/                     # Copie de travail
 └── 📁 jour-XX-.../
     ├── 📄 README.md
     └── 📁 exercices/
@@ -52,7 +58,7 @@ excel-bootcamp-30-jours/
 ### 🗓️ Semaine 1 — Fondations
 
 ```
-[████████░░░░░░░░░░░░░░░░░░░░░░] 7 % — Jour 2 / 30
+[███████████░░░░░░░░░░░░░░░░░░░] 10 % — Jour 3 / 30
 ```
 
 ### Tableau de bord
@@ -61,7 +67,7 @@ excel-bootcamp-30-jours/
 |:----:|-------|------------------|:------:|
 | [01](jour-01-references-cellules/) | Environnement & références | Relative / Absolue / Mixte | ✅ Terminé |
 | [02](jour-02-mise-en-forme/) | Mise en forme essentielle | Nombres, %, €, Dates, Fusion | ✅ Terminé |
-| 03 | *(à définir)* | — | ⬜ À faire |
+| [03](jour-03-tri-filtres/) | Tri et filtres | Tris simples/personnalisés, filtres multiples | ✅ Terminé |
 | 04 | *(à définir)* | — | ⬜ À faire |
 | 05 | *(à définir)* | — | ⬜ À faire |
 | 06 | *(à définir)* | — | ⬜ À faire |
@@ -82,6 +88,7 @@ excel-bootcamp-30-jours/
 ```bash
 # 1. Créer le dossier du jour
 mkdir -p jour-XX-nom-du-theme/exercices
+mkdir -p jour-XX-nom-du-theme/data
 
 # 2. Travailler : théorie dans README.md, Excel dans exercices/
 
@@ -98,6 +105,7 @@ git push
 ```
 Jour 01 : références relatives, absolues et mixtes
 Jour 02 : mise en forme (nombres, %, devise, dates, fusion)
+Jour 03 : tri et filtres
 ```
 
 > Numéro sur 2 chiffres · thème court en français · pas de majuscule après les deux‑points
@@ -120,8 +128,9 @@ Jour 02 : mise en forme (nombres, %, devise, dates, fusion)
 ## 🧠 Compétences visées
 
 **Niveau 1 — Fondations (Jours 1-10)**
-- Références (relative/absolue/mixte)
-- Mise en forme (nombres, %, dates, devise)
+- Références (relative/absolue/mixte) ✅
+- Mise en forme (nombres, %, dates, devise) ✅
+- Tri et filtres (simples, multiples, personnalisés) ✅
 - Formules essentielles (SI, RECHERCHE, SOMME.SI)
 - Mise en forme conditionnelle
 - Graphiques de base
@@ -150,7 +159,7 @@ Jour 02 : mise en forme (nombres, %, devise, dates, fusion)
 
 ## 🏁 Dernière mise à jour
 
-> **22 août 2026** — Jour 02 terminé ✅
+> **23 août 2026** — Jour 03 terminé ✅
 
 ---
 
