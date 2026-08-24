@@ -1,7 +1,7 @@
 # 🚀 Excel Bootcamp — 30 Jours
 
 ![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow)
-![Jour](https://img.shields.io/badge/Jour-05%20sur%2030-blue)
+![Jour](https://img.shields.io/badge/Jour-06%20sur%2030-blue)
 ![Excel](https://img.shields.io/badge/Excel-Microsoft%20365-217346?logo=microsoft-excel&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -45,6 +45,9 @@ excel-bootcamp-30-jours/
 ├── 📁 jour-05-mise-en-forme-conditionnelle/
 │   ├── 📄 README.md
 │   └── 📁 exercices/                     # Fichiers .xlsx du jour
+├── 📁 jour-06-operateurs-calculs/
+│   ├── 📄 README.md
+│   └── 📁 exercices/                     # Fichiers .xlsx du jour
 └── 📁 jour-XX-.../
     ├── 📄 README.md
     └── 📁 exercices/
@@ -64,7 +67,7 @@ excel-bootcamp-30-jours/
 ### 🗓️ Semaine 1 — Fondations
 
 ```
-[█████████████████░░░░░░░░░░░] 17 % — Jour 5 / 30
+[████████████████████░░░░░░░░] 20 % — Jour 6 / 30
 ```
 
 ### Tableau de bord
@@ -76,7 +79,7 @@ excel-bootcamp-30-jours/
 | [03](jour-03-tri-filtres/) | Tri et filtres | Tris simples/personnalisés, filtres multiples | ✅ Terminé |
 | [04](jour-04-validation-donnees/) | Validation des données | Listes déroulantes, restrictions numériques/date | ✅ Terminé |
 | [05](jour-05-mise-en-forme-conditionnelle/) | Mise en forme conditionnelle | Règles, échelles, barres, icônes | ✅ Terminé |
-| 06 | *(à définir)* | — | ⬜ À faire |
+| [06](jour-06-operateurs-calculs/) | Opérateurs et calculs | +, -, *, /, %, priorité des opérations | ✅ Terminé |
 | 07 | *(à définir)* | — | ⬜ À faire |
 | 08 | *(à définir)* | — | ⬜ À faire |
 | 09 | *(à définir)* | — | ⬜ À faire |
@@ -114,6 +117,7 @@ Jour 02 : mise en forme (nombres, %, devise, dates, fusion)
 Jour 03 : tri et filtres
 Jour 04 : validation des données
 Jour 05 : mise en forme conditionnelle
+Jour 06 : opérateurs et calculs
 ```
 
 > Numéro sur 2 chiffres · thème court en français · pas de majuscule après les deux‑points
@@ -129,7 +133,6 @@ Jour 05 : mise en forme conditionnelle
 | 🐚 **Git Bash** | Commandes Git |
 | 📝 **VS Code** | Édition des README et notes |
 | 🐙 **GitHub** | Hébergement du dépôt |
-
 ---
 
 ## 🧠 Compétences visées
@@ -140,6 +143,7 @@ Jour 05 : mise en forme conditionnelle
 - Tri et filtres (simples, multiples, personnalisés) ✅
 - Validation des données (listes, nombres, dates) ✅
 - Mise en forme conditionnelle (règles, échelles, barres, icônes) ✅
+- Opérateurs et calculs (+, -, *, /, %, priorité) ✅
 - Formules essentielles (SI, RECHERCHE, SOMME.SI)
 - Graphiques de base
 
@@ -160,11 +164,13 @@ Jour 05 : mise en forme conditionnelle
 
 - 📁 [Dépôt GitHub](https://github.com/abdoudjigo/Excel_Bootcamp_30jours)
 - 🧑‍🏫 Programme source : template Notion (privé, contenu recopié au fil des jours)
+- 🤖 Assistance et correction : Claude AI
+
 ---
 
 ## 🏁 Dernière mise à jour
 
-> **23 août 2026** — Jour 05 terminé ✅
+> **24 août 2026** — Jour 06 terminé ✅
 
 ---
 
