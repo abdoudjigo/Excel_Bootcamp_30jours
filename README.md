@@ -1,7 +1,7 @@
 # 🚀 Excel Bootcamp — 30 Jours
 
 ![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow)
-![Jour](https://img.shields.io/badge/Jour-06%20sur%2030-blue)
+![Jour](https://img.shields.io/badge/Jour-07%20sur%2030-blue)
 ![Excel](https://img.shields.io/badge/Excel-Microsoft%20365-217346?logo=microsoft-excel&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -48,6 +48,9 @@ excel-bootcamp-30-jours/
 ├── 📁 jour-06-operateurs-calculs/
 │   ├── 📄 README.md
 │   └── 📁 exercices/                     # Fichiers .xlsx du jour
+├── 📁 jour-07-fonctions-statistiques/
+│   ├── 📄 README.md
+│   └── 📁 exercices/                     # Fichiers .xlsx du jour
 └── 📁 jour-XX-.../
     ├── 📄 README.md
     └── 📁 exercices/
@@ -67,7 +70,7 @@ excel-bootcamp-30-jours/
 ### 🗓️ Semaine 1 — Fondations
 
 ```
-[████████████████████░░░░░░░░] 20 % — Jour 6 / 30
+[███████████████████████░░░░░] 23 % — Jour 7 / 30
 ```
 
 ### Tableau de bord
@@ -80,7 +83,7 @@ excel-bootcamp-30-jours/
 | [04](jour-04-validation-donnees/) | Validation des données | Listes déroulantes, restrictions numériques/date | ✅ Terminé |
 | [05](jour-05-mise-en-forme-conditionnelle/) | Mise en forme conditionnelle | Règles, échelles, barres, icônes | ✅ Terminé |
 | [06](jour-06-operateurs-calculs/) | Opérateurs et calculs | +, -, *, /, %, priorité des opérations | ✅ Terminé |
-| 07 | *(à définir)* | — | ⬜ À faire |
+| [07](jour-07-fonctions-statistiques/) | Fonctions statistiques | SUM, AVERAGE, MAX, MIN, COUNT, COUNTIF, COUNTIFS | ✅ Terminé |
 | 08 | *(à définir)* | — | ⬜ À faire |
 | 09 | *(à définir)* | — | ⬜ À faire |
 | 10 | *(à définir)* | — | ⬜ À faire |
@@ -118,6 +121,7 @@ Jour 03 : tri et filtres
 Jour 04 : validation des données
 Jour 05 : mise en forme conditionnelle
 Jour 06 : opérateurs et calculs
+Jour 07 : fonctions statistiques essentielles
 ```
 
 > Numéro sur 2 chiffres · thème court en français · pas de majuscule après les deux‑points
@@ -133,6 +137,7 @@ Jour 06 : opérateurs et calculs
 | 🐚 **Git Bash** | Commandes Git |
 | 📝 **VS Code** | Édition des README et notes |
 | 🐙 **GitHub** | Hébergement du dépôt |
+
 ---
 
 ## 🧠 Compétences visées
@@ -144,6 +149,7 @@ Jour 06 : opérateurs et calculs
 - Validation des données (listes, nombres, dates) ✅
 - Mise en forme conditionnelle (règles, échelles, barres, icônes) ✅
 - Opérateurs et calculs (+, -, *, /, %, priorité) ✅
+- Fonctions statistiques (SUM, AVERAGE, MAX, MIN, COUNT, COUNTIF, COUNTIFS) ✅
 - Formules essentielles (SI, RECHERCHE, SOMME.SI)
 - Graphiques de base
 
@@ -164,13 +170,12 @@ Jour 06 : opérateurs et calculs
 
 - 📁 [Dépôt GitHub](https://github.com/abdoudjigo/Excel_Bootcamp_30jours)
 - 🧑‍🏫 Programme source : template Notion (privé, contenu recopié au fil des jours)
-- 🤖 Assistance et correction : Claude AI
 
 ---
 
 ## 🏁 Dernière mise à jour
 
-> **24 août 2026** — Jour 06 terminé ✅
+> **27 août 2026** — Jour 07 terminé ✅
 
 ---
 
