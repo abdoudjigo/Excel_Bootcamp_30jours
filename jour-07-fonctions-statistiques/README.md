@@ -222,7 +222,7 @@ Produire un résumé statistique pour le responsable pédagogique.
 ---
 
 ## Statut
-⬜ Théorie faite
-⬜ Exercices faits
-⬜ Mini-projet fait
-⬜ Points de friction compris
+✅ Théorie faite
+✅ Exercices faits
+✅ Mini-projet fait
+✅ Points de friction compris

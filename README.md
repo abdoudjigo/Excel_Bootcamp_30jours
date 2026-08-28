@@ -1,7 +1,7 @@
 # 🚀 Excel Bootcamp — 30 Jours
 
 ![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow)
-![Jour](https://img.shields.io/badge/Jour-08%20sur%2030-blue)
+![Jour](https://img.shields.io/badge/Jour-09%20sur%2030-blue)
 ![Excel](https://img.shields.io/badge/Excel-Microsoft%20365-217346?logo=microsoft-excel&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -54,6 +54,10 @@ excel-bootcamp-30-jours/
 ├── 📁 jour-08-fonctions-logiques/
 │   ├── 📄 README.md
 │   └── 📁 exercices/                     # Fichiers .xlsx du jour
+├── 📁 jour-09-fonctions-texte/
+│   ├── 📄 README.md
+│   ├── 📁 data/                          # Dataset original (clients)
+│   └── 📁 exercices/                     # Copie de travail
 └── 📁 jour-XX-.../
     ├── 📄 README.md
     └── 📁 exercices/
@@ -73,7 +77,7 @@ excel-bootcamp-30-jours/
 ### 🗓️ Semaine 1 — Fondations
 
 ```
-[██████████████████████████░░░] 27 % — Jour 8 / 30
+[████████████████████████████] 30 % — Jour 9 / 30
 ```
 
 ### Tableau de bord
@@ -88,7 +92,7 @@ excel-bootcamp-30-jours/
 | [06](jour-06-operateurs-calculs/) | Opérateurs et calculs | +, -, *, /, %, priorité des opérations | ✅ Terminé |
 | [07](jour-07-fonctions-statistiques/) | Fonctions statistiques | SUM, AVERAGE, MAX, MIN, COUNT, COUNTIF, COUNTIFS | ✅ Terminé |
 | [08](jour-08-fonctions-logiques/) | Fonctions logiques | IF, IFS, AND, OR, NOT, IFERROR | ✅ Terminé |
-| 09 | *(à définir)* | — | ⬜ À faire |
+| [09](jour-09-fonctions-texte/) | Fonctions de texte | LEFT, RIGHT, MID, LEN, TRIM, CONCAT, TEXTJOIN | ✅ Terminé |
 | 10 | *(à définir)* | — | ⬜ À faire |
 
 *Les jours 11 à 30 seront ajoutés au fur et à mesure.*
@@ -126,6 +130,7 @@ Jour 05 : mise en forme conditionnelle
 Jour 06 : opérateurs et calculs
 Jour 07 : fonctions statistiques essentielles
 Jour 08 : fonctions logiques
+Jour 09 : fonctions de texte
 ```
 
 > Numéro sur 2 chiffres · thème court en français · pas de majuscule après les deux‑points
@@ -141,7 +146,6 @@ Jour 08 : fonctions logiques
 | 🐚 **Git Bash** | Commandes Git |
 | 📝 **VS Code** | Édition des README et notes |
 | 🐙 **GitHub** | Hébergement du dépôt |
-
 ---
 
 ## 🧠 Compétences visées
@@ -155,6 +159,7 @@ Jour 08 : fonctions logiques
 - Opérateurs et calculs (+, -, *, /, %, priorité) ✅
 - Fonctions statistiques (SUM, AVERAGE, MAX, MIN, COUNT, COUNTIF, COUNTIFS) ✅
 - Fonctions logiques (IF, IFS, AND, OR, NOT, IFERROR) ✅
+- Fonctions de texte (LEFT, RIGHT, MID, LEN, TRIM, CONCAT, TEXTJOIN) ✅
 - Formules essentielles (SI, RECHERCHE, SOMME.SI)
 - Graphiques de base
 
@@ -180,7 +185,7 @@ Jour 08 : fonctions logiques
 
 ## 🏁 Dernière mise à jour
 
-> **27 août 2026** — Jour 08 terminé ✅
+> **28 août 2026** — Jour 09 terminé ✅
 
 ---
 
