@@ -1,7 +1,7 @@
 # 🚀 Excel Bootcamp — 30 Jours
 
 ![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow)
-![Jour](https://img.shields.io/badge/Jour-09%20sur%2030-blue)
+![Jour](https://img.shields.io/badge/Jour-10%20sur%2030-blue)
 ![Excel](https://img.shields.io/badge/Excel-Microsoft%20365-217346?logo=microsoft-excel&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -58,6 +58,9 @@ excel-bootcamp-30-jours/
 │   ├── 📄 README.md
 │   ├── 📁 data/                          # Dataset original (clients)
 │   └── 📁 exercices/                     # Copie de travail
+├── 📁 jour-10-fonctions-date/
+│   ├── 📄 README.md
+│   └── 📁 exercices/                     # Fichiers .xlsx du jour
 └── 📁 jour-XX-.../
     ├── 📄 README.md
     └── 📁 exercices/
@@ -77,7 +80,7 @@ excel-bootcamp-30-jours/
 ### 🗓️ Semaine 1 — Fondations
 
 ```
-[████████████████████████████] 30 % — Jour 9 / 30
+[█████████████████████████████] 33 % — Jour 10 / 30
 ```
 
 ### Tableau de bord
@@ -93,7 +96,8 @@ excel-bootcamp-30-jours/
 | [07](jour-07-fonctions-statistiques/) | Fonctions statistiques | SUM, AVERAGE, MAX, MIN, COUNT, COUNTIF, COUNTIFS | ✅ Terminé |
 | [08](jour-08-fonctions-logiques/) | Fonctions logiques | IF, IFS, AND, OR, NOT, IFERROR | ✅ Terminé |
 | [09](jour-09-fonctions-texte/) | Fonctions de texte | LEFT, RIGHT, MID, LEN, TRIM, CONCAT, TEXTJOIN | ✅ Terminé |
-| 10 | *(à définir)* | — | ⬜ À faire |
+| [10](jour-10-fonctions-date/) | Fonctions de date | TODAY, NOW, YEAR, MONTH, DAY, DATEDIF | ✅ Terminé |
+| 11 | *(à définir)* | — | ⬜ À faire |
 
 *Les jours 11 à 30 seront ajoutés au fur et à mesure.*
 
@@ -131,6 +135,7 @@ Jour 06 : opérateurs et calculs
 Jour 07 : fonctions statistiques essentielles
 Jour 08 : fonctions logiques
 Jour 09 : fonctions de texte
+Jour 10 : fonctions de date
 ```
 
 > Numéro sur 2 chiffres · thème court en français · pas de majuscule après les deux‑points
@@ -160,8 +165,7 @@ Jour 09 : fonctions de texte
 - Fonctions statistiques (SUM, AVERAGE, MAX, MIN, COUNT, COUNTIF, COUNTIFS) ✅
 - Fonctions logiques (IF, IFS, AND, OR, NOT, IFERROR) ✅
 - Fonctions de texte (LEFT, RIGHT, MID, LEN, TRIM, CONCAT, TEXTJOIN) ✅
-- Formules essentielles (SI, RECHERCHE, SOMME.SI)
-- Graphiques de base
+- Fonctions de date (TODAY, NOW, YEAR, MONTH, DAY, DATEDIF) ✅
 
 **Niveau 2 — Intermédiaire (Jours 11-20)**
 - Tableaux croisés dynamiques
@@ -180,12 +184,11 @@ Jour 09 : fonctions de texte
 
 - 📁 [Dépôt GitHub](https://github.com/abdoudjigo/Excel_Bootcamp_30jours)
 - 🧑‍🏫 Programme source : template Notion (privé, contenu recopié au fil des jours)
-
 ---
 
 ## 🏁 Dernière mise à jour
 
-> **28 août 2026** — Jour 09 terminé ✅
+> **28 août 2026** — Jour 10 terminé ✅
 
 ---
 
