@@ -1,7 +1,7 @@
 # 🚀 Excel Bootcamp — 30 Jours
 
 ![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow?style=flat-square)
-![Jour](https://img.shields.io/badge/Jour-12%20sur%2030-blue?style=flat-square)
+![Jour](https://img.shields.io/badge/Jour-13%20sur%2030-blue?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-Microsoft%20365-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=windows&logoColor=white)
 
@@ -65,12 +65,15 @@ excel-bootcamp-30-jours/
 ├── jour-12-recherche-x/
 │   ├── README.md
 │   └── exercices/
+├── jour-13-index-match/
+│   ├── README.md
+│   └── exercices/
 └── jour-XX-.../
     ├── README.md
     └── exercices/
 ```
 
-> Les jours 13 à 30 suivent le même motif. Le README de chaque jour contient :  
+> Les jours 14 à 30 suivent le même motif. Le README de chaque jour contient :  
 > **Objectifs · Théorie (Q/R) · Pratique · Points de friction**
 
 ---
@@ -101,14 +104,14 @@ excel-bootcamp-30-jours/
 ### Sprint 2 — Data Analyst (Jours 11–20)
 
 ```
-[████░░░░░░░░░░░░░░░░░░░░░░░░░] 20 % — Jour 12 / 20
+[██████░░░░░░░░░░░░░░░░░░░░░░░] 30 % — Jour 13 / 20
 ```
 
 | Jour | Thème | Statut |
 |:----:|-------|:------:|
 | [11](jour-11-recherche-v/) | RECHERCHEV (VLOOKUP) | ✅ Terminé |
 | [12](jour-12-recherche-x/) | XLOOKUP (RECHERCHEX) | ✅ Terminé |
-| 13 | *(à définir)* | ⬜ |
+| [13](jour-13-index-match/) | INDEX + MATCH | ✅ Terminé |
 | 14 | *(à définir)* | ⬜ |
 | 15 | *(à définir)* | ⬜ |
 | 16 | *(à définir)* | ⬜ |
@@ -173,7 +176,7 @@ git push
 Références · Mise en forme · Tris/Filtres · Validation · MFC · Opérateurs · Stats · Logique · Texte · Dates
 
 **Sprint 2 — Data Analyst**  
-RECHERCHEV · XLOOKUP · Index/Equiv · TCD · Scénarios · Simulations
+RECHERCHEV · XLOOKUP · INDEX + MATCH · TCD · Scénarios · Simulations
 
 **Sprint 3 — Avancé**  
 Power Query · VBA · Dashboards · Automatisation
@@ -189,7 +192,7 @@ Power Query · VBA · Dashboards · Automatisation
 
 ## 🏁 Dernière mise à jour
 
-> **30 août 2026** — Sprint 2 : Jour 12 terminé ✅
+> **31 août 2026** — Sprint 2 : Jour 13 terminé ✅
 
 ---
 
