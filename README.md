@@ -1,7 +1,7 @@
 # 🚀 Excel Bootcamp — 30 Jours
 
 ![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow?style=flat-square)
-![Jour](https://img.shields.io/badge/Jour-15%20sur%2030-blue?style=flat-square)
+![Jour](https://img.shields.io/badge/Jour-16%20sur%2030-blue?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-Microsoft%20365-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=windows&logoColor=white)
 
@@ -74,19 +74,22 @@ excel-bootcamp-30-jours/
 ├── jour-15-graphiques/
 │   ├── README.md
 │   └── exercices/
+├── jour-16-tcd/
+│   ├── README.md
+│   └── exercices/
 └── jour-XX-.../
     ├── README.md
     └── exercices/
 ```
 
-> Les jours 16 à 30 suivent le même motif. Le README de chaque jour contient :  
+> Les jours 17 à 30 suivent le même motif. Le README de chaque jour contient :  
 > **Objectifs · Théorie (Q/R) · Pratique · Points de friction**
 
 ---
 
 ## 📊 Progression
 
-### Sprint 1 — Fondations (Jours 1–10) ✅
+### 🏁 Sprint 1 — Fondations (Jours 1–10) ✅
 
 ```
 [█████████████████████████████] 100 % — Sprint 1 terminé
@@ -107,28 +110,28 @@ excel-bootcamp-30-jours/
 
 ---
 
-### Sprint 2 — Data Analyst (Jours 11–20)
+### 🚀 Sprint 2 — Data Analyst (Jours 11–20)
 
 ```
-[████████░░░░░░░░░░░░░░░░░░░░] 40 % — Jour 15 / 20
+[██████████░░░░░░░░░░░░░░░░░░] 45 % — Jour 16 / 20
 ```
 
-| Jour | Thème | Statut |
-|:----:|-------|:------:|
-| [11](jour-11-recherche-v/) | RECHERCHEV (VLOOKUP) | ✅ Terminé |
-| [12](jour-12-recherche-x/) | XLOOKUP (RECHERCHEX) | ✅ Terminé |
-| [13](jour-13-index-match/) | INDEX + MATCH | ✅ Terminé |
-| [14](jour-14-tableaux-excel/) | Tableaux Excel | ✅ Terminé |
-| [15](jour-15-graphiques/) | Graphiques | ✅ Terminé |
-| 16 | *(à définir)* | ⬜ |
-| 17 | *(à définir)* | ⬜ |
-| 18 | *(à définir)* | ⬜ |
-| 19 | *(à définir)* | ⬜ |
-| 20 | *(à définir)* | ⬜ |
+| Jour | Thème | Compétences clés | Statut |
+|:----:|-------|------------------|:------:|
+| [11](jour-11-recherche-v/) | RECHERCHEV | VLOOKUP | ✅ |
+| [12](jour-12-recherche-x/) | XLOOKUP | RECHERCHEX | ✅ |
+| [13](jour-13-index-match/) | INDEX + MATCH | Recherche flexible | ✅ |
+| [14](jour-14-tableaux-excel/) | Tableaux Excel | Références structurées | ✅ |
+| [15](jour-15-graphiques/) | Graphiques | Courbe, histogramme, circulaire, nuage | ✅ |
+| [16](jour-16-tcd/) | Tableaux Croisés Dynamiques | TCD, segments, regroupement dates | ✅ |
+| 17 | *(à définir)* | — | ⬜ |
+| 18 | *(à définir)* | — | ⬜ |
+| 19 | *(à définir)* | — | ⬜ |
+| 20 | *(à définir)* | — | ⬜ |
 
 ---
 
-### Sprint 3 — Avancé / Automatisation (Jours 21–30)
+### 🎯 Sprint 3 — Avancé / Automatisation (Jours 21–30)
 
 ```
 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0 %
@@ -164,7 +167,7 @@ git push
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Stack technique
 
 | Outil | Usage |
 |-------|-------|
@@ -182,14 +185,14 @@ git push
 Références · Mise en forme · Tris/Filtres · Validation · MFC · Opérateurs · Stats · Logique · Texte · Dates
 
 **Sprint 2 — Data Analyst**  
-RECHERCHEV · XLOOKUP · INDEX + MATCH · Tableaux Excel · Graphiques · TCD · Scénarios · Simulations
+RECHERCHEV · XLOOKUP · INDEX + MATCH · Tableaux Excel · Graphiques · **TCD & Segments** · Scénarios · Simulations
 
 **Sprint 3 — Avancé**  
 Power Query · VBA · Dashboards · Automatisation
 
 ---
 
-## 📎 Liens
+## 📎 Liens utiles
 
 - 📁 [Dépôt GitHub](https://github.com/abdoudjigo/Excel_Bootcamp_30jours)
 - 🧑‍🏫 Programme source : template Notion (privé)
@@ -198,7 +201,7 @@ Power Query · VBA · Dashboards · Automatisation
 
 ## 🏁 Dernière mise à jour
 
-> **31 août 2026** — Sprint 2 : Jour 15 terminé ✅
+> **02 Septembre 2026** — Sprint 2 : Jour 16 terminé ✅
 
 ---
 
