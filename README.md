@@ -1,7 +1,7 @@
 # 🚀 Excel Bootcamp — 30 Jours
 
 ![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow?style=flat-square)
-![Jour](https://img.shields.io/badge/Jour-16%20sur%2030-blue?style=flat-square)
+![Jour](https://img.shields.io/badge/Jour-17%20sur%2030-blue?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-Microsoft%20365-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=windows&logoColor=white)
 
@@ -77,12 +77,15 @@ excel-bootcamp-30-jours/
 ├── jour-16-tcd/
 │   ├── README.md
 │   └── exercices/
+├── jour-17-nettoyage-donnees/
+│   ├── README.md
+│   └── exercices/
 └── jour-XX-.../
     ├── README.md
     └── exercices/
 ```
 
-> Les jours 17 à 30 suivent le même motif. Le README de chaque jour contient :  
+> Les jours 18 à 30 suivent le même motif. Le README de chaque jour contient :  
 > **Objectifs · Théorie (Q/R) · Pratique · Points de friction**
 
 ---
@@ -113,7 +116,7 @@ excel-bootcamp-30-jours/
 ### 🚀 Sprint 2 — Data Analyst (Jours 11–20)
 
 ```
-[██████████░░░░░░░░░░░░░░░░░░] 45 % — Jour 16 / 20
+[█████████████░░░░░░░░░░░░░░░] 50 % — Jour 17 / 20
 ```
 
 | Jour | Thème | Compétences clés | Statut |
@@ -124,7 +127,7 @@ excel-bootcamp-30-jours/
 | [14](jour-14-tableaux-excel/) | Tableaux Excel | Références structurées | ✅ |
 | [15](jour-15-graphiques/) | Graphiques | Courbe, histogramme, circulaire, nuage | ✅ |
 | [16](jour-16-tcd/) | Tableaux Croisés Dynamiques | TCD, segments, regroupement dates | ✅ |
-| 17 | *(à définir)* | — | ⬜ |
+| [17](jour-17-nettoyage-donnees/) | Nettoyage des données | Doublons, valeurs manquantes, formats | ✅ |
 | 18 | *(à définir)* | — | ⬜ |
 | 19 | *(à définir)* | — | ⬜ |
 | 20 | *(à définir)* | — | ⬜ |
@@ -185,7 +188,7 @@ git push
 Références · Mise en forme · Tris/Filtres · Validation · MFC · Opérateurs · Stats · Logique · Texte · Dates
 
 **Sprint 2 — Data Analyst**  
-RECHERCHEV · XLOOKUP · INDEX + MATCH · Tableaux Excel · Graphiques · **TCD & Segments** · Scénarios · Simulations
+RECHERCHEV · XLOOKUP · INDEX + MATCH · Tableaux Excel · Graphiques · TCD & Segments · **Nettoyage des données** · Scénarios · Simulations
 
 **Sprint 3 — Avancé**  
 Power Query · VBA · Dashboards · Automatisation
@@ -201,8 +204,7 @@ Power Query · VBA · Dashboards · Automatisation
 
 ## 🏁 Dernière mise à jour
 
-> **02 Septembre 2026** — Sprint 2 : Jour 16 terminé ✅
+> **02 Septembre 2026** — Sprint 2 : Jour 17 terminé ✅
 
 ---
-
 **30 jours pour devenir un pro Excel — un jour à la fois.**
