@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Statut-En%20Cours-yellow?style=for-the-badge&logo=github" alt="Statut">
-  <img src="https://img.shields.io/badge/Jour-19%20sur%2030-blue?style=for-the-badge&logo=microsoft-excel" alt="Jour">
+  <img src="https://img.shields.io/badge/Jour-20%20sur%2030-blue?style=for-the-badge&logo=microsoft-excel" alt="Jour">
   <img src="https://img.shields.io/badge/Excel-Microsoft%20365-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Windows-11-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -89,6 +89,9 @@ excel-bootcamp-30-jours/
 ├── 📁 jour-19-dashboard-interactif/
 │   ├── 📄 README.md
 │   └── 📁 exercices/
+├── 📁 jour-20-projet-intermediaire/
+│   ├── 📄 README.md
+│   └── 📁 exercices/
 └── 📁 jour-XX-.../
     ├── 📄 README.md
     └── 📁 exercices/
@@ -121,10 +124,10 @@ excel-bootcamp-30-jours/
 
 ---
 
-### 🚀 Sprint 2 — Data Analyst (Jours 11–20)
+### 🚀 Sprint 2 — Data Analyst (Jours 11–20) ✅
 
 ```
-[█████████████████░░░░░░░░░░░] 60 % — Jour 19 / 20
+[█████████████████████████████] 100 % — Sprint 2 terminé
 ```
 
 | Jour | Thème | Compétences clés | Statut |
@@ -137,8 +140,8 @@ excel-bootcamp-30-jours/
 | [16](jour-16-tcd/) | TCD | Tableaux croisés dynamiques | ✅ |
 | [17](jour-17-nettoyage-donnees/) | Nettoyage | Doublons, valeurs manquantes, formats | ✅ |
 | [18](jour-18-importation-donnees/) | Importation | CSV, Excel, dossier, Power Query | ✅ |
-| [19](jour-19-dashboard-interactif/) | Dashboard interactif | KPI, TCD, segments, graphiques dynamiques | ✅ |
-| 20 | *(à définir)* | — | ⬜ |
+| [19](jour-19-dashboard-interactif/) | Dashboard interactif | KPI, TCD, segments, graphiques | ✅ |
+| [20](jour-20-projet-intermediaire/) | Projet intermédiaire | Analyse complète + dashboard | ✅ |
 
 ---
 
@@ -150,7 +153,16 @@ excel-bootcamp-30-jours/
 
 | Jour | Thème | Statut |
 |:----:|-------|:------:|
-| 21–30 | *(à définir)* | ⬜ |
+| 21 | *(à définir)* | ⬜ |
+| 22 | *(à définir)* | ⬜ |
+| 23 | *(à définir)* | ⬜ |
+| 24 | *(à définir)* | ⬜ |
+| 25 | *(à définir)* | ⬜ |
+| 26 | *(à définir)* | ⬜ |
+| 27 | *(à définir)* | ⬜ |
+| 28 | *(à définir)* | ⬜ |
+| 29 | *(à définir)* | ⬜ |
+| 30 | *(à définir)* | ⬜ |
 
 ---
 
@@ -198,6 +210,7 @@ Jour 16 : tableaux croisés dynamiques
 Jour 17 : nettoyage des données
 Jour 18 : importation de données
 Jour 19 : dashboard interactif
+Jour 20 : projet intermédiaire - analyse complète
 ```
 
 > **Règle :** Numéro sur 2 chiffres · thème court en français · pas de majuscule après les deux‑points
@@ -221,8 +234,8 @@ Jour 19 : dashboard interactif
 **Sprint 1 — Fondations** ✅  
 Références · Mise en forme · Tris/Filtres · Validation · MFC · Opérateurs · Stats · Logique · Texte · Dates
 
-**Sprint 2 — Data Analyst**  
-RECHERCHEV · XLOOKUP · INDEX + MATCH · Tableaux Excel · Graphiques · TCD · Nettoyage · Importation · **Dashboard interactif**
+**Sprint 2 — Data Analyst** ✅  
+RECHERCHEV · XLOOKUP · INDEX + MATCH · Tableaux Excel · Graphiques · TCD · Nettoyage · Importation · Dashboard · **Projet complet**
 
 **Sprint 3 — Avancé**  
 Power Query · VBA · Dashboards · Automatisation
@@ -238,7 +251,7 @@ Power Query · VBA · Dashboards · Automatisation
 
 ## 🏁 Dernière mise à jour
 
-> **04 Septembre 2026** — Sprint 2 : Jour 19 terminé ✅
+> **05 Septembre 2026** — Sprint 2 terminé ✅
 
 ---
 
