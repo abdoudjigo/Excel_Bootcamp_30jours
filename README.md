@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Statut-En%20Cours-yellow?style=for-the-badge&logo=github" alt="Statut">
-  <img src="https://img.shields.io/badge/Jour-21%20sur%2030-blue?style=for-the-badge&logo=microsoft-excel" alt="Jour">
+  <img src="https://img.shields.io/badge/Jour-22%20sur%2030-blue?style=for-the-badge&logo=microsoft-excel" alt="Jour">
   <img src="https://img.shields.io/badge/Excel-Microsoft%20365-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Windows-11-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -96,6 +96,9 @@ excel-bootcamp-30-jours/
 │   ├── 📄 README.md
 │   ├── 📁 data/
 │   └── 📁 exercices/
+├── 📁 jour-22-power-query-avance/
+│   ├── 📄 README.md
+│   └── 📁 exercices/
 └── 📁 jour-XX-.../
     ├── 📄 README.md
     └── 📁 exercices/
@@ -152,13 +155,13 @@ excel-bootcamp-30-jours/
 ### 🎯 Sprint 3 — Avancé / Automatisation (Jours 21–30)
 
 ```
-[██░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10 % — Jour 21 / 30
+[████░░░░░░░░░░░░░░░░░░░░░░░░░] 20 % — Jour 22 / 30
 ```
 
 | Jour | Thème | Compétences clés | Statut |
 |:----:|-------|------------------|:------:|
 | [21](jour-21-power-query/) | Power Query - Pipeline ETL | Importation, fusion, jointures | ✅ |
-| 22 | *(à définir)* | — | ⬜ |
+| [22](jour-22-power-query-avance/) | Power Query avancé | Colonnes personnalisées, paramètres, M | ✅ |
 | 23 | *(à définir)* | — | ⬜ |
 | 24 | *(à définir)* | — | ⬜ |
 | 25 | *(à définir)* | — | ⬜ |
@@ -216,6 +219,7 @@ Jour 18 : importation de données
 Jour 19 : dashboard interactif
 Jour 20 : projet intermédiaire - analyse complète
 Jour 21 : Power Query - pipeline ETL
+Jour 22 : Power Query avancé
 ```
 
 > **Règle :** Numéro sur 2 chiffres · thème court en français · pas de majuscule après les deux‑points
@@ -256,7 +260,7 @@ Power Query · VBA · Dashboards · Automatisation
 
 ## 🏁 Dernière mise à jour
 
-> **08 Septembre 2026** — Sprint 3 : Jour 21 terminé ✅
+> **12 Septembre 2026** — Sprint 3 : Jour 22 terminé ✅
 
 ---
 
