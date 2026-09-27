@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Statut-En%20Cours-yellow?style=for-the-badge&logo=github" alt="Statut">
-  <img src="https://img.shields.io/badge/Jour-22%20sur%2030-blue?style=for-the-badge&logo=microsoft-excel" alt="Jour">
+  <img src="https://img.shields.io/badge/Jour-23%20sur%2030-blue?style=for-the-badge&logo=microsoft-excel" alt="Jour">
   <img src="https://img.shields.io/badge/Excel-Microsoft%20365-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Windows-11-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -99,6 +99,10 @@ excel-bootcamp-30-jours/
 ├── 📁 jour-22-power-query-avance/
 │   ├── 📄 README.md
 │   └── 📁 exercices/
+├── 📁 jour-23-power-pivot/
+│   ├── 📄 README.md
+│   ├── 📁 data/
+│   └── 📁 exercices/
 └── 📁 jour-XX-.../
     ├── 📄 README.md
     └── 📁 exercices/
@@ -155,14 +159,14 @@ excel-bootcamp-30-jours/
 ### 🎯 Sprint 3 — Avancé / Automatisation (Jours 21–30)
 
 ```
-[████░░░░░░░░░░░░░░░░░░░░░░░░░] 20 % — Jour 22 / 30
+[██████░░░░░░░░░░░░░░░░░░░░░░░] 30 % — Jour 23 / 30
 ```
 
 | Jour | Thème | Compétences clés | Statut |
 |:----:|-------|------------------|:------:|
 | [21](jour-21-power-query/) | Power Query - Pipeline ETL | Importation, fusion, jointures | ✅ |
 | [22](jour-22-power-query-avance/) | Power Query avancé | Colonnes personnalisées, paramètres, M | ✅ |
-| 23 | *(à définir)* | — | ⬜ |
+| [23](jour-23-power-pivot/) | Power Pivot | Modèle relationnel, schéma en étoile, DAX | ✅ |
 | 24 | *(à définir)* | — | ⬜ |
 | 25 | *(à définir)* | — | ⬜ |
 | 26 | *(à définir)* | — | ⬜ |
@@ -220,6 +224,7 @@ Jour 19 : dashboard interactif
 Jour 20 : projet intermédiaire - analyse complète
 Jour 21 : Power Query - pipeline ETL
 Jour 22 : Power Query avancé
+Jour 23 : Power Pivot - modèle analytique
 ```
 
 > **Règle :** Numéro sur 2 chiffres · thème court en français · pas de majuscule après les deux‑points
@@ -247,7 +252,7 @@ Références · Mise en forme · Tris/Filtres · Validation · MFC · Opérateur
 RECHERCHEV · XLOOKUP · INDEX + MATCH · Tableaux Excel · Graphiques · TCD · Nettoyage · Importation · Dashboard · Projet complet
 
 **Sprint 3 — Avancé**  
-Power Query · VBA · Dashboards · Automatisation
+Power Query · Power Pivot · VBA · Dashboards · Automatisation
 
 ---
 
@@ -260,7 +265,7 @@ Power Query · VBA · Dashboards · Automatisation
 
 ## 🏁 Dernière mise à jour
 
-> **12 Septembre 2026** — Sprint 3 : Jour 22 terminé ✅
+> **27 Septembre 2026** — Sprint 3 : Jour 23 terminé ✅
 
 ---
 
