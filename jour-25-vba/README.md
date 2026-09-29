@@ -119,9 +119,9 @@ Next i
 ---
 
 ## Statut
-⬜ Théorie
-⬜ Variables
-⬜ Conditions
-⬜ Boucles
-⬜ Première macro
-⬜ Mini-projet
+✅ Théorie
+✅ Variables
+✅ Conditions
+✅ Boucles
+✅ Première macro
+✅ Mini-projet
