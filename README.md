@@ -1,8 +1,8 @@
 # 🚀 Excel Bootcamp — 30 Jours
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Statut-En%20Cours-yellow?style=for-the-badge&logo=github" alt="Statut">
-  <img src="https://img.shields.io/badge/Jour-25%20sur%2030-blue?style=for-the-badge&logo=microsoft-excel" alt="Jour">
+  <img src="https://img.shields.io/badge/Statut-Termin%C3%A9-brightgreen?style=for-the-badge&logo=github" alt="Statut">
+  <img src="https://img.shields.io/badge/Jour-30%20sur%2030-blue?style=for-the-badge&logo=microsoft-excel" alt="Jour">
   <img src="https://img.shields.io/badge/Excel-Microsoft%20365-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Windows-11-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -13,6 +13,8 @@
 ## 📖 À propos
 
 **30 jours** pour maîtriser Excel niveau **entreprise** — formules avancées, TCD, Power Query, dashboards, VBA.
+
+**Bootcamp terminé le 19 Octobre 2026** ✅
 
 | | |
 |---|---|
@@ -30,88 +32,35 @@ excel-bootcamp-30-jours/
 ├── 📄 README.md                          # Tableau de bord principal
 ├── 📄 .gitignore                         # Fichiers temporaires Excel
 ├── 📁 jour-01-references-cellules/       # Sprint 1 - Fondations
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-02-mise-en-forme/
-│   ├── 📄 README.md
-│   ├── 📁 data/
-│   └── 📁 exercices/
 ├── 📁 jour-03-tri-filtres/
-│   ├── 📄 README.md
-│   ├── 📁 data/
-│   └── 📁 exercices/
 ├── 📁 jour-04-validation-donnees/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-05-mise-en-forme-conditionnelle/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-06-operateurs-calculs/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-07-fonctions-statistiques/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-08-fonctions-logiques/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-09-fonctions-texte/
-│   ├── 📄 README.md
-│   ├── 📁 data/
-│   └── 📁 exercices/
 ├── 📁 jour-10-fonctions-date/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-11-recherche-v/               # Sprint 2 - Data Analyst
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-12-recherche-x/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-13-index-match/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-14-tableaux-excel/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-15-graphiques/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-16-tcd/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-17-nettoyage-donnees/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-18-importation-donnees/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-19-dashboard-interactif/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-20-projet-intermediaire/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
-├── 📁 jour-21-power-query/
-│   ├── 📄 README.md
-│   ├── 📁 data/
-│   └── 📁 exercices/
+├── 📁 jour-21-power-query/               # Sprint 3 - Avancé
 ├── 📁 jour-22-power-query-avance/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-23-power-pivot/
-│   ├── 📄 README.md
-│   ├── 📁 data/
-│   └── 📁 exercices/
 ├── 📁 jour-24-dax/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
 ├── 📁 jour-25-vba/
-│   ├── 📄 README.md
-│   └── 📁 exercices/
-└── 📁 jour-XX-.../
-    ├── 📄 README.md
-    └── 📁 exercices/
+├── 📁 jour-26-vba-avance/
+├── 📁 jour-27-projet-analyse-1/
+├── 📁 jour-28-projet-analyse-2/
+├── 📁 jour-29-projet-analyse-3/
+└── 📁 jour-30-projet-final/
 ```
 
 > Chaque README du jour suit le même plan : **Objectifs · Théorie (Q/R) · Pratique · Points de friction**
@@ -162,24 +111,24 @@ excel-bootcamp-30-jours/
 
 ---
 
-### 🎯 Sprint 3 — Avancé / Automatisation (Jours 21–30)
+### 🎯 Sprint 3 — Avancé / Automatisation (Jours 21–30) ✅
 
 ```
-[██████████░░░░░░░░░░░░░░░░░░░] 50 % — Jour 25 / 30
+[█████████████████████████████] 100 % — Sprint 3 terminé
 ```
 
 | Jour | Thème | Compétences clés | Statut |
 |:----:|-------|------------------|:------:|
 | [21](jour-21-power-query/) | Power Query - Pipeline ETL | Importation, fusion, jointures | ✅ |
 | [22](jour-22-power-query-avance/) | Power Query avancé | Colonnes personnalisées, paramètres, M | ✅ |
-| [23](jour-23-power-pivot/) | Power Pivot | Modèle relationnel, schéma en étoile, DAX | ✅ |
+| [23](jour-23-power-pivot/) | Power Pivot | Modèle relationnel, schéma en étoile | ✅ |
 | [24](jour-24-dax/) | DAX | Mesures, SUMX, CALCULATE, FILTER | ✅ |
-| [25](jour-25-vba/) | VBA | Macros, variables, boucles, automatisation | ✅ |
-| 26 | *(à définir)* | — | ⬜ |
-| 27 | *(à définir)* | — | ⬜ |
-| 28 | *(à définir)* | — | ⬜ |
-| 29 | *(à définir)* | — | ⬜ |
-| 30 | *(à définir)* | — | ⬜ |
+| [25](jour-25-vba/) | VBA | Macros, variables, boucles | ✅ |
+| [26](jour-26-vba-avance/) | VBA avancé | UserForm, formulaires, rapports | ✅ |
+| [27](jour-27-projet-analyse-1/) | Projet analyse 1 | Dataset + analyse complète | ✅ |
+| [28](jour-28-projet-analyse-2/) | Projet analyse 2 | Dataset + analyse complète | ✅ |
+| [29](jour-29-projet-analyse-3/) | Projet analyse 3 | Dataset + analyse complète | ✅ |
+| [30](jour-30-projet-final/) | Projet final | Analyse complète de A à Z | ✅ |
 
 ---
 
@@ -187,80 +136,36 @@ excel-bootcamp-30-jours/
 
 ---
 
-## 🔁 Workflow quotidien
+## 🧠 Bilan des compétences acquises
 
-```bash
-# 1. Créer le dossier du jour
-mkdir -p jour-XX-nom-du-theme/exercices
-
-# 2. Travailler : théorie dans README.md, Excel dans exercices/
-
-# 3. Mettre à jour le tableau de progression (README principal)
-
-# 4. Commit + push en fin de journée
-git add .
-git commit -m "Jour XX : nom-du-theme"
-git push
-```
-
----
-
-### 📝 Convention de commit
-
-```
-Jour 01 : références relatives, absolues et mixtes
-Jour 02 : mise en forme (nombres, %, devise, dates, fusion)
-Jour 03 : tri et filtres
-Jour 04 : validation des données
-Jour 05 : mise en forme conditionnelle
-Jour 06 : opérateurs et calculs
-Jour 07 : fonctions statistiques essentielles
-Jour 08 : fonctions logiques
-Jour 09 : fonctions de texte
-Jour 10 : fonctions de date
-Jour 11 : recherche V (VLOOKUP)
-Jour 12 : XLOOKUP
-Jour 13 : INDEX et MATCH
-Jour 14 : tableaux Excel
-Jour 15 : graphiques
-Jour 16 : tableaux croisés dynamiques
-Jour 17 : nettoyage des données
-Jour 18 : importation de données
-Jour 19 : dashboard interactif
-Jour 20 : projet intermédiaire - analyse complète
-Jour 21 : Power Query - pipeline ETL
-Jour 22 : Power Query avancé
-Jour 23 : Power Pivot - modèle analytique
-Jour 24 : DAX - construire des mesures
-Jour 25 : VBA - automatiser Excel
-```
-
-> **Règle :** Numéro sur 2 chiffres · thème court en français · pas de majuscule après les deux‑points
-
----
-
-## 🛠️ Stack technique
-
-| Outil | Usage |
-|-------|-------|
-| 📊 **Excel 365** | Travail principal |
-| 🖥️ **Windows 11** | Environnement |
-| 🐚 **Git Bash** | Commandes Git |
-| 📝 **VS Code** | Édition README |
-| 🐙 **GitHub** | Hébergement |
-
----
-
-## 🧠 Compétences visées
-
-**Sprint 1 — Fondations** ✅  
+### Sprint 1 — Fondations ✅
 Références · Mise en forme · Tris/Filtres · Validation · MFC · Opérateurs · Stats · Logique · Texte · Dates
 
-**Sprint 2 — Data Analyst** ✅  
-RECHERCHEV · XLOOKUP · INDEX + MATCH · Tableaux Excel · Graphiques · TCD · Nettoyage · Importation · Dashboard · Projet complet
+### Sprint 2 — Data Analyst ✅
+RECHERCHEV · XLOOKUP · INDEX + MATCH · Tableaux Excel · Graphiques · TCD · Nettoyage · Importation · Dashboards interactifs
 
-**Sprint 3 — Avancé**  
-Power Query · Power Pivot · DAX · VBA · Dashboards · Automatisation
+### Sprint 3 — Avancé / Automatisation ✅
+Power Query · Power Pivot · DAX · VBA · UserForms · Automatisation · Analyse complète de datasets
+
+---
+
+## 🎯 Ce que je sais faire maintenant
+
+| Domaine | Compétences |
+|---------|-------------|
+| **Formules** | SI, RECHERCHEV, XLOOKUP, INDEX/MATCH, SUMIFS, COUNTIFS, etc. |
+| **Analyse** | TCD, segments, KPI, dashboards interactifs |
+| **Données** | Nettoyage, importation, pipelines Power Query |
+| **Modélisation** | Schéma en étoile, relations, mesures DAX |
+| **Automatisation** | Macros VBA, UserForms, génération de rapports |
+| **Reporting** | Dashboards, recommandations business |
+
+---
+
+## 🏆 Projet final
+
+Le **Jour 30** marque la fin du bootcamp avec un **projet final complet** :  
+analyse d'un dataset, nettoyage, modélisation, dashboard et recommandations business.
 
 ---
 
@@ -273,10 +178,10 @@ Power Query · Power Pivot · DAX · VBA · Dashboards · Automatisation
 
 ## 🏁 Dernière mise à jour
 
-> **29 Septembre 2026** — Sprint 3 : Jour 25 terminé ✅
+> **19 Octobre 2026** — 🎉 **Bootcamp terminé — 30/30 jours ✅**
 
 ---
 
 <p align="center">
-  🔥 <strong>30 jours pour devenir un pro Excel — un jour à la fois.</strong>
+  🔥 <strong>30 jours pour devenir un pro Excel — mission accomplie !</strong>
 </p>
